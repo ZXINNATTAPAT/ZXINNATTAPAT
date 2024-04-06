@@ -1,13 +1,8 @@
 <h1>Hi 👋, I'm Nattapat Phungphugdee</h1>
-<h3>I am a computer science student from King Mongkut's University of Technology North Bangkok, located in the country of Thailand.</h3>
-
-- 🌱 I’m currently learning **Angular , TS**
-
-- 👨‍💻 All of my projects are available at [https://zxinnattapat.github.io/ZXINNATTAPAT3.github.io/](https://zxinnattapat.github.io/ZXINNATTAPAT3.github.io/)
-
-- 📫 How to reach me **nattapat.p.npt@gmail.com**
+<!-- <h3>I am a computer science student from King Mongkut's University of Technology North Bangkok, located in the country of Thailand.</h3> -->
 
 [![](https://img.shields.io/badge/-@ZXINNATTAPAT-%23181717?style=flat-square&logo=github)](https://github.com/ZXINNATTAPAT)
+[![](https://img.shields.io/badge/-@Mywebsite-%23000000?style=flat-square)](https://zxinnattapat.github.io/ZXINNATTAPAT3.github.io)
 
 ## My project
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/ZXINNATTAPAT/Votemai&mode=dark&style=horizontal)](https://github.com/ZXINNATTAPAT/Votemai)
