@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/-@ZXINNATTAPAT-%23181717?style=flat-square&logo=github)](https://github.com/ZXINNATTAPAT)
 [![](https://img.shields.io/badge/-@Mywebsite-%23000000?style=flat-square)](https://zxinnattapat.github.io/ZXINNATTAPAT3.github.io)
 
-## My project
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/ZXINNATTAPAT/Votemai&mode=dark&style=horizontal)](https://github.com/ZXINNATTAPAT/Votemai)
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
