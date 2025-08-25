@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nattapat Phungphugdee</h1>
+<h1 align="center">
+  <img src="./assets/heading.svg" alt="Hi, I'm Nattapat Phungphugdee" width="100%">
+</h1>
+
 <!-- <h3>I am a computer science student from King Mongkut's University of Technology North Bangkok, located in the country of Thailand.</h3> -->
 <h3 align="center">Hello, my name is Nattapat Phungphugdee. I am currently a Computer Science student at King Mongkut's University of Technology North Bangkok. My focus is on Fullstack development, where I enjoy working on both front-end and back-end technologies to create comprehensive and functional web applications.</h3>
 <div align="center">
