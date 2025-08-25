@@ -9,7 +9,7 @@
 
 </div>
 
-<h1 align="center"> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h1>
+<h1 align="center"> 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸 </h1>
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
