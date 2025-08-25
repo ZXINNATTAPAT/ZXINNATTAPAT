@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/heading.svg" alt="Hi, I'm Nattapat Phungphugdee" width="100%">
+  Hi, I'm Nattapat Phungphugdee
 </h1>
 
 <!-- <h3>I am a computer science student from King Mongkut's University of Technology North Bangkok, located in the country of Thailand.</h3> -->
