@@ -5,6 +5,7 @@
   
 [![](https://img.shields.io/badge/-@ZXINNATTAPAT-%23181717?style=flat-square&logo=github)](https://github.com/ZXINNATTAPAT)
 [![](https://img.shields.io/badge/-@Mywebsite-%23000000?style=flat-square)](https://zxinnattapat.github.io/ZXINNATTAPAT3.github.io)
+[![wakatime](https://wakatime.com/badge/user/72faa53c-d966-47e5-b56a-bf9d72b2419b.svg)](https://wakatime.com/@72faa53c-d966-47e5-b56a-bf9d72b2419b)
 
 </div>
 
