@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/EasOKf7edK4AAAAC/friend-love.gif"  />
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/dfk3vrs-63ff1093-ddfa-41d2-9de2-8dff7deb3834.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNDcxOTRjLTQzODktNDBiMi1iMTMwLWUzZGU3NmRiNGVhMFwvZGZrM3Zycy02M2ZmMTA5My1kZGZhLTQxZDItOWRlMi04ZGZmN2RlYjM4MzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S8aVU8-4IrQbXh5FD19ujVPKVs1yetRpa7s9LrBWSts"  />
 </div>
 
 ###
