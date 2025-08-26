@@ -23,7 +23,6 @@
 ![C++](https://img.shields.io/badge/C++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120)
 ![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=java&logoColor=ED8B00)
-
 ![React.js](https://img.shields.io/badge/React.js-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -32,13 +31,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Material UI](https://img.shields.io/badge/Material%20UI-000000.svg?style=for-the-badge&logo=material-ui&logoColor=0081CB)
-
 ![Webpack](https://img.shields.io/badge/Webpack-000000.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
 ![Vite](https://img.shields.io/badge/Vite-000000.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![VS Code](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Netlify](https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=46E3B7)
-
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
 
